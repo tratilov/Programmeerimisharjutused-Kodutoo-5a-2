@@ -1,0 +1,9 @@
+Kodutöö nr 5a-2.                        Programmi väljund
+=========================================================:
+
+Kaashäälikuühendeid tekstis "Mait Malmsten kehastus korstnapühkijaks" on : 5
+
+Kaashäälikuühendeid tekstis "MaitMalmstenkehastuskorstnapühkijaks" on : 8
+
+=========================================================.
+Tatjana Ratilovsakaja             2020-03-26 22:21:24.839
